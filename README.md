@@ -1,4 +1,4 @@
-#About me
+# About me
 
 This is a personal presentation website, build with NextJS and deployed at Heroku.
 
